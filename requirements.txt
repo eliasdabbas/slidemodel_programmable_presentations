@@ -1,3 +1,4 @@
+advertools
 dash
 plotly
 dash-bootstrap-components
